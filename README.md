@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola , soy Sofía Monge Pérez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Sofía >
 
 <!-- 🔽 Aquí va tu banner. Sube tu imagen de Canva (en PNG) a este mismo repositorio,
      por ejemplo con el nombre "banner.png", y reemplaza la línea de abajo por: 
