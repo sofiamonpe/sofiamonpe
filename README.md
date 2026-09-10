@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Sofía >
+<h1 align="center"><b>Hola, soy Sofía Monge Pérez
 
 <!-- 🔽 Aquí va tu banner. Sube tu imagen de Canva (en PNG) a este mismo repositorio,
      por ejemplo con el nombre "banner.png", y reemplaza la línea de abajo por: 
