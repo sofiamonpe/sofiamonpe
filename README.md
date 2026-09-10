@@ -41,7 +41,7 @@ Soy estudiante de ingeniería en computación, actualmente a mitad de mi carrera
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-## ⚙️ Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiamonpe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
