@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Sofía Monge Pérez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, mucho gusto soy Sofía </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sof%C3%ADa-monge-p%C3%A9rez-26a5b2396" target="_blank">
