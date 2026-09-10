@@ -1,27 +1,26 @@
 <h1 align="center"><b>Hola, soy Sofía Monge Pérez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!-- 🔽 Aquí va tu banner. Sube tu imagen de Canva (en PNG) a este mismo repositorio,
-     por ejemplo con el nombre "banner.png", y reemplaza la línea de abajo por: 
-     <img src="banner.png" width="100%"> -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner Sofía Monge Pérez">
+  <a href="https://www.linkedin.com/in/sof%C3%ADa-monge-p%C3%A9rez-26a5b2396" target="_blank">
+    <img src="banner.png" width="100%" alt="Banner Sofía Monge Pérez">
+  </a>
 </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
+Soy estudiante de ingeniería en computación, actualmente a mitad de mi carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
 
-- 🌱 I'm currently learning ...
+- 🌱 Actualmente estoy aprendiendo...
   - Nest.js
   - Angular
-- 👯 I'm looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- 👾 I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="mailto:tuemail@gmail.com">tuemail@gmail.com</a>
+- 👯 Me encantaría colaborar en proyectos de código abierto.
+- ✔ Pregúntame lo que quieras, con gusto te ayudo<br>
+- 👾 Creo contenido sobre programación/tecnología en mis redes, ¡échale un vistazo a mi perfil!
+- 📫 Contáctame en: <a href="mailto:tuemail@gmail.com">sofiamongeperez.cr@gmail.com</a>
 
-## My Skills Include
+## Mis habilidades incluyen
 
-<h4> Languages </h4>
+<h4> Lenguajes </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -33,7 +32,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </span>
 
-<h4> Other Tools and Technologies </h4>
+<h4> Otras herramientas y tecnologías </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
@@ -42,24 +41,9 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
 
-## ⚙️ GitHub Analytics
+## ⚙️ Estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sofiamonpe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamonpe&layout=compact&langs_count=8&theme=radical"/>
 </p>
-
-## Check out my Social Media
-
-<a href="https://www.instagram.com/tuusuario">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<a href="https://www.tiktok.com/@tuusuario">
-  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
-</a>
-<a href="https://www.twitch.tv/tuusuario">
-  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-</a>
-<a href="https://www.youtube.com/@tuusuario">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
-</a>
