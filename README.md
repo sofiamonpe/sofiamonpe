@@ -6,39 +6,28 @@
   </a>
 </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
+## Sobre mí
 
-Soy estudiante de ingeniería en computación, actualmente a mitad de mi carrera. Estoy ampliando mis conocimientos tanto en desarrollo front-end como back-end. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
+Soy estudiante de Bachillerato en Ingeniería Industrial, con Técnico en Ciencia de Datos y Técnico Medio en Administración, Logística y Distribución. Cuento con experiencia en procesos administrativos y logísticos, manejo de inventarios, coordinación de proyectos y análisis de datos. Me apasiona combinar la eficiencia de los procesos con la tecnología, y estoy en constante aprendizaje para seguir creciendo en el mundo de los datos y la mejora continua.
 
-- 🌱 Actualmente estoy aprendiendo...
-  - Nest.js
-  - Angular
-- 👯 Me encantaría colaborar en proyectos de código abierto.
-- ✔ Pregúntame lo que quieras, con gusto te ayudo<br>
-- 👾 Creo contenido sobre programación/tecnología en mis redes, ¡échale un vistazo a mi perfil!
-- 📫 Contáctame en: <a href="mailto:tuemail@gmail.com">sofiamongeperez.cr@gmail.com</a>
+
+Actualmente estoy aprendiendo...
+-  HTML
+-  CSS
+-  PostgreSQL
+-  Excel avanzado
+-  Me encantaría participar en proyectos relacionados con logística, procesos y análisis de datos.
+-  Me apasiona optimizar procesos y usar los datos para tomar mejores decisiones.
+-  Pregúntame lo que quieras, con gusto te ayudo<br>
+-  Contáctame en: <a href="mailto:tuemail@gmail.com">sofiamongeperez.cr@gmail.com</a>
 
 ## Mis habilidades incluyen
 
-<h4> Lenguajes </h4>
 <span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-</span>
-
-<h4> Otras herramientas y tecnologías </h4>
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </span>
 
 ## Estadísticas de GitHub
