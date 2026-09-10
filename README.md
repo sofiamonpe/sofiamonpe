@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola, soy Sofía Monge Pérez
+<h1 align="center"><b>Hola, soy Sofía Monge Pérez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- 🔽 Aquí va tu banner. Sube tu imagen de Canva (en PNG) a este mismo repositorio,
      por ejemplo con el nombre "banner.png", y reemplaza la línea de abajo por: 
@@ -6,8 +6,6 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="Banner Sofía Monge Pérez">
 </p>
-
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -51,3 +49,17 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiamonpe&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
+## Check out my Social Media
+
+<a href="https://www.instagram.com/tuusuario">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.tiktok.com/@tuusuario">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
+</a>
+<a href="https://www.twitch.tv/tuusuario">
+  <img src="https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
+</a>
+<a href="https://www.youtube.com/@tuusuario">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
+</a>
